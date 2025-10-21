@@ -14,7 +14,7 @@ The model consists of two main components: a SOTA feature extraction module and 
 ![end-to-end LAD estimation model](https://github.com/user-attachments/assets/c7e6800c-42ce-4901-8033-b1002e4cf418)
 
 # Hardware platform
-CPU: Intel(R)xeon(R)Platinum 8358P CPU@ 2.0 GHz  
+CPU: Intel (R) xeon (R) Platinum 8358P CPU@ 2.0 GHz  
 GPU: NVIDIA GTX 4090 Ti  
 CUDA version: 12.0
 
