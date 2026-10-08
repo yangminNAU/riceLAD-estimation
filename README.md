@@ -37,13 +37,12 @@ If you use our project in your research or wish to refer to the results of the p
 
 ```bibtex
 @article{
-URL = {},
-author = { },
-title = {},
-journal = {},
-volume = {},
-number = {},
-pages = {},
-year = {},
-doi = {},
+URL = {https://doi.org/10.1016/j.rse.2026.115697},  
+author = {Gao, Yangmingrui and Li, Linyuan and Shi, Ming and Wang, Wenjie and Yang, Peiqi and Xiao, Feng and Lu, Hao and Baret, Fred and Ding, Yanfeng and Liu, Shouyang},  
+title = {Estimation of rice leaf angle distribution from geometric features in millimetric-resolution UAV RGB imagery acquired at 45° viewing angle},  
+journal = {Remote Sensing of Environment},  
+volume = {347},  
+pages = {115697},  
+year = {2026},  
+doi = {10.1016/j.rse.2026.115697},  
 
